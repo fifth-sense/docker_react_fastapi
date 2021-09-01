@@ -1,0 +1,11 @@
+fastapi[all]
+
+uvicorn
+
+sqlalchemy
+
+pytest
+
+starlette
+
+requests
